@@ -1,0 +1,23 @@
+.card {
+  width: 350px;
+  background-color: #fff;
+  border: 1px solid rgda(0, 0, 0, 0.2);
+  border-radius: 4px;
+  box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+}
+.card-img {
+  width: 100%;
+}
+.card-body {
+  padding: 20px;
+}
+.card-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.card-text {
+  margin-bottom: 10px;
+}
+.card a {
+  text-decoration: none;
+}/*# sourceMappingURL=card.css.map */

@@ -1,0 +1,12 @@
+1. загрузка node_modules
+    npm i
+2. инициализация проекта
+    npm init
+
+3. запуск проекта
+    gulp dev
+
+2.  запуск json-server
+(имитация общения с сервером, данные будут храниться в db.json(src\data))
+    cd src\data
+    json-server --watch db.json --port 3001

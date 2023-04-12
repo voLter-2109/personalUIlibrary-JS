@@ -1,0 +1,42 @@
+.container {
+  min-height: 100%;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+.card,
+#tabsDemo,
+#accordionDemo {
+  box-shadow: 0 5px 30px rgba(0, 0, 0, .4);
+}
+
+form {
+  width: 450px;
+  margin: 40px auto 0 auto;
+}
+
+input {
+  width: 280px;
+  height: 45px;
+  margin-right: 10px;
+  padding: 0 10px;
+  font-size: 18px;
+  vertical-align: middle;
+  border: 1px solid rgba(0, 0, 0, .2);
+  border-radius: 4px;
+}
+
+
+footer {
+  color: black;
+  margin-top: 40px;
+  height: 80px;
+  background-color: #5959595d;
+}

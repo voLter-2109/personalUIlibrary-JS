@@ -1,0 +1,17 @@
+@import "./general/_base.scss";
+// general
+@import "./helpers/classes.scss";
+// components
+@import "./components/ui.scss";
+
+@font-face {
+  font-family: "Teko";
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/Teko-Bold.ttf") format("ttf")
+}
+
+* {
+  font-family: "Teko", sans-serif;
+}

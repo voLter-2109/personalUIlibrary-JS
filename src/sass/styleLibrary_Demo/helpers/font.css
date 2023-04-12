@@ -1,0 +1,43 @@
+.fz-16 {
+  font-size: 16px;
+}
+
+.fz-20 {
+  font-size: 20px;
+}
+
+.fz-24 {
+  font-size: 24px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.this {
+  font-weight: 300;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text-color-primary {
+  color: #025fff;
+}
+
+.text-color-success {
+  color: #2a9924;
+}
+
+.text-color-danger {
+  color: #ea2e41;
+}
+
+.text-color-warning {
+  color: #ffc907;
+}
+
+.text-color-dark {
+  color: #343a40;
+}/*# sourceMappingURL=font.css.map */
